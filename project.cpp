@@ -1,3 +1,5 @@
+// checkout project documentation to understand the program better.
+
 #include<iostream>
 #include<conio.h>
 #include<windows.h>
